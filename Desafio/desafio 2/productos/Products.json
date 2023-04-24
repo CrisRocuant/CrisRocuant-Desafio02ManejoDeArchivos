@@ -1,0 +1,45 @@
+[
+  {
+    "Title": "Botín Camel Jarman",
+    "description": "Plantilla a base de espuma que proporciona mayor comodidad y amortiguación, convirtiéndolo en un calzado moldeable dependiendo de la activad que se esté llevando a cabo",
+    "Price": "2800",
+    "thumbnail": "https://static.dafiti.cl/p/jarman-3676-7379591-1-product.jpg",
+    "id": 1
+  },
+  {
+    "Title": "Remera",
+    "Price": "2500",
+    "description": "",
+    "id": 2
+  },
+  {
+    "Title": "Medias",
+    "Price": "1250",
+    "description": "",
+    "id": 3
+  },
+  {
+    "Title": "Pantalón",
+    "Price": "4500",
+    "description": "",
+    "id": 4
+  },
+  {
+    "Title": "Zapatillas",
+    "Price": "14500",
+    "description": "",
+    "id": 5
+  },
+  {
+    "Title": "Buzo",
+    "Price": "6000",
+    "description": "",
+    "id": 6
+  },
+  {
+    "Title": "Pijama",
+    "Price": "4500",
+    "description": "",
+    "id": 7
+  }
+]
